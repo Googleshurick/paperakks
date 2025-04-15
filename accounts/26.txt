@@ -1,5 +1,5 @@
 PlayerID=("26")
-BanStatus=("true")
-BanReason=("АХ ТЫ ХУЕСОС С СОФТОМ ЗАШЁЛ ТВОЙ АЙПИ БЫЛ СПИЗЖЕН И ТЕПЕРЬ ХРАНИТСЯ В ПРИВАТНОЙ БАЗЕ ДАННЫХ АЙПИ ВСЕХ ХУЕСОСОВ ШУТКО НЕ НОЕМ")
+BanStatus=("false")
+BanReason=("")
 IP=("zlf9DRpZVbWdZqPQxpdYzA==")
 RegisterDate=("2025-04-15 19:03:12")

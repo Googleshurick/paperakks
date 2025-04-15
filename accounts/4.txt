@@ -1,5 +1,5 @@
 PlayerID=("4")
 BanStatus=("true")
-BanReason=("Тест банана пон")
+BanReason=("ХУЕСОС БЛЯТЬ С СОФТОМ ИГРАЕШЬ ТАК ЧТО СОСО НАХУЙ ТВОЙ АЙПИ БЫЛ СПИЗЖЕН")
 IP=("Wcf7uuEARwfPryt+xB+wjg==")
 RegisterDate=("2025-04-15 10:46:34")

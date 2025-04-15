@@ -1,5 +1,5 @@
 PlayerID=("13")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Ебать сосо блять")
 IP=("Mt3/ympYYJXd1+ET4oGQ7w==")
 RegisterDate=("2025-04-15 13:06:24")

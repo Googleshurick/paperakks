@@ -1,5 +1,5 @@
 PlayerID=("123")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Удалите читы или ваши данные будут слиты")
 IP=("fL1V+TabsFP6Dqi360ahPA==")
 RegisterDate=("2025-04-16 12:10:41")

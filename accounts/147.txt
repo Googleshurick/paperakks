@@ -1,5 +1,5 @@
 PlayerID=("147")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Приворяется Разработчиком/Тестером)
 IP=("MW8gnuwIr5XBucyXOHbKAA==")
 RegisterDate=("2025-04-16 13:50:08")

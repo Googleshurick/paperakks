@@ -1,5 +1,5 @@
 PlayerID=("25")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("рамадан")
 IP=("M8KI+1l16AJUkZASkBceDQ==")
 RegisterDate=("2025-04-15 17:59:17")

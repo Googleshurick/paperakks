@@ -1,0 +1,5 @@
+PlayerID=("753217")
+BanStatus=("true")
+BanReason=("Перескачай игру! из тг t.me/StandErkosha")
+IP=("HSwVtFr4J3SIMgHH4xRpMw==")
+RegisterDate=("2025-04-15 17:59:17")

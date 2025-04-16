@@ -1,5 +1,5 @@
 PlayerID=("55")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("АХ ТЫ ХУЕСОС УДАЛЯЙ ЧИТЫ/КЛАМСИ")
 IP=("JZbtgG/oh6aCaznoyx5qPg==")
 RegisterDate=("2025-04-16 04:35:46")

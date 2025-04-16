@@ -1,4 +1,4 @@
-PlayerID=("26")
+PlayerID=("JFox_tst")
 BanStatus=("false")
 BanReason=("Сам ты такой")
 IP=("zlf9DRpZVbWdZqPQxpdYzA==")

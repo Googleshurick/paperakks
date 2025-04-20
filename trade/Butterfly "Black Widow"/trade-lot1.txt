@@ -1,0 +1,3 @@
+PlayerId=1
+Price=841.93
+Sold=true

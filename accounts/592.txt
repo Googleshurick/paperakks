@@ -1,5 +1,5 @@
 PlayerID=("592")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Уебок, удаляй читы")
 IP=("T7WJNFPDQyUmB+JEfRQF7A==")
 RegisterDate=("2025-04-20 13:10:19")

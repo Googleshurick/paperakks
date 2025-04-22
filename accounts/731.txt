@@ -1,5 +1,5 @@
 PlayerID=("731")
 BanStatus=("true")
-BanReason=("GG Detected")
-IP=("trK3u8+4JEnfFX5odP3blQ==")
-RegisterDate=("2025-04-22 16:29:49")
+BanReason=("")
+IP=("nyooUy50qYo71RI434ANMQ==")
+RegisterDate=("2025-04-16 15:52:40")

@@ -1,0 +1,5 @@
+PlayerID=("1044")
+BanStatus=("false")
+BanReason=("")
+IP=("aqwVE3KuM+GqVa286Qrcjw==")
+RegisterDate=("2025-05-04 08:02:37")

@@ -1,5 +1,5 @@
 PlayerID=("1295")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("тест банана пон")
 IP=("U1F8fyhsm0VLxHrNjqHj7Q==")
 RegisterDate=("2025-05-15 16:26:01")

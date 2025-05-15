@@ -1,5 +1,5 @@
 PlayerID=("1288")
 BanStatus=("true")
-BanReason=("")
+BanReason=("Брат отсоси пж")
 IP=("U1F8fyhsm0VLxHrNjqHj7Q==")
 RegisterDate=("2025-05-15 14:24:36")

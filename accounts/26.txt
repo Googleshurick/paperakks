@@ -1,5 +1,0 @@
-PlayerID=("JFox_tst")
-BanStatus=("false")
-BanReason=("Сам ты такой")
-IP=("zlf9DRpZVbWdZqPQxpdYzA==")
-RegisterDate=("2025-04-15 19:03:12")

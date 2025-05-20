@@ -1,5 +1,0 @@
-PlayerID=("287")
-BanStatus=("true")
-BanReason=("Оскорбления игроков в чате")
-IP=("N8nZEliyy2dASNJ+UagH/g==")
-RegisterDate=("2025-04-17 04:41:27")

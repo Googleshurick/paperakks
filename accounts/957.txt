@@ -1,5 +1,0 @@
-PlayerID=("957")
-BanStatus=("true")
-BanReason=("Вы подозреваетесь в использовании запрещённого программного обеспечения (например: GameGuardian или аналогичные инструменты) Если это ошибка напишите в лс в тг @ImErkosha")
-IP=("hNgTCRXEO3LuPBOFFPhMFQ==")
-RegisterDate=("2025-05-01 09:47:16")

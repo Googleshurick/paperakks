@@ -1,5 +1,0 @@
-PlayerID=("5")
-BanStatus=("true")
-BanReason=("ХУЕСОС БЛЯТЬ С СОФТОМ ИГРАЕШЬ ТАК ЧТО СОСО НАХУЙ ТВОЙ АЙПИ БЫЛ СПИЗЖЕН")
-IP=("Wcf7uuEARwfPryt+xB+wjg==")
-RegisterDate=("2025-04-15 11:36:22")

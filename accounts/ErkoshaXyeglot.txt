@@ -1,5 +1,0 @@
-PlayerID=("ErkoshaXyeglot")
-BanStatus=("true")
-BanReason=("Спуф айди не спас?")
-IP=("trK3u8+4JEnfFX5odP3blQ==")
-RegisterDate=("2025-04-22 16:29:49")

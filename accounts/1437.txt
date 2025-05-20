@@ -1,5 +1,0 @@
-PlayerID=("1437")
-BanStatus=("false")
-BanReason=("")
-IP=("PHTykKsEarYiwsJz2iR5+Q==")
-RegisterDate=("2025-05-16 19:12:13")

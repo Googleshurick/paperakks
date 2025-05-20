@@ -1,5 +1,0 @@
-PlayerID=("428")
-BanStatus=("false")
-BanReason=("Вы были забанены потому что вы сами написали в чат что захотели бан. Если это ошибка обратитесь мне в лс в тг @ImErkosha")
-IP=("tLeSpIbawIdOLXEWh7RRxg==")
-RegisterDate=("2025-04-18 14:20:14")

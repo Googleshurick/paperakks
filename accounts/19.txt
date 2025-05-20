@@ -1,0 +1,8 @@
+PlayerID=("19")
+BanStatus=("false")
+BanReason=("")
+IP=("3qf0q3qsige5sZxSDK+Frg==")
+RegisterDate=("2025-05-20 15:10:35")
+PlayerName=("Игрок 9194")
+Friends=("")
+RequestToFriend=("")

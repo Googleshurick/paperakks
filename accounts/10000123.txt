@@ -1,5 +1,5 @@
 PlayerID=("10000123")
-BanStatus=("true")
+BanStatus=("false")
 BanReason=("Жди докс наху и сват и спортиков хохоххо")
 IP=("QdtmMRV12qTPwf3DFPqMEg==")
 RegisterDate=("2025-05-22 10:08:07")

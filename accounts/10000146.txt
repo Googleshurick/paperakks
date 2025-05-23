@@ -1,6 +1,6 @@
 PlayerID=("10000146")
 BanStatus=("false")
-BanReason=("")
+BanReason=("Вы были заблокированы из-за подозрительного поведения в игре. Было обнаружено невозможное действие: Infinity Drop")
 IP=("FleNH5jmpDvUxvuH6naOfg==")
 RegisterDate=("2025-05-22 17:03:42")
 PlayerName=("GiantLight93")

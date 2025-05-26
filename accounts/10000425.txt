@@ -1,6 +1,6 @@
 PlayerID=("10000425")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("МАТЬ ЗДОХЛА ТВОЯ ДА? КЛАМСИ ЮЗАЕШЬ ХВХАХА")
 IP=("MqZorrkkCMdHvNO6kaiMgw==")
 RegisterDate=("2025-05-26 08:37:44")
 PlayerName=("longer test")

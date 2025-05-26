@@ -1,6 +1,6 @@
 PlayerID=("10000307")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("мать сдохла у тебя")
 IP=("eb78CGD0+S7DXPr7t+mf+Q==")
 RegisterDate=("2025-05-25 09:58:20")
 PlayerName=("PENIS VAZELINE")

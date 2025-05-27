@@ -1,5 +1,5 @@
 PlayerID=("10000529")
-BanStatus=("false")
+BanStatus=("true")
 BanReason=("")
 IP=("zjT2TP4O2mIrJmVsRk6D+g==")
 RegisterDate=("2025-05-27 06:59:34")

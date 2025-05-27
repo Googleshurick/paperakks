@@ -1,6 +1,6 @@
 PlayerID=("10000468")
 BanStatus=("true")
-BanReason=("сын шлюхи)
+BanReason=("сын шлюхи")
 IP=("MKF3bLRxz2efYlxI7lL5pA==")
 RegisterDate=("2025-05-26 15:44:59")
 PlayerName=("Игрок 7827")

@@ -1,6 +1,6 @@
 PlayerID=("10000507")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("УДАЛИ ЧИТЫ ХУЕСОС")
 IP=("nFzpkrZnZcdFdL8PQqs/aQ==")
 RegisterDate=("2025-05-26 22:34:24")
 PlayerName=("KOCMOC")

@@ -1,6 +1,6 @@
 PlayerID=("10000506")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("CHEATING")
 IP=("rt2tIw+grbwnaiRO3/jN7w==")
 RegisterDate=("2025-05-26 21:34:49")
 PlayerName=("Легенда 5000Мммр")

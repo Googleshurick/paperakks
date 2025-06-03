@@ -1,6 +1,6 @@
 PlayerID=("10000973")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Манипуляция с интернет соединением")
 IP=("Ce001Psv3W9rAY5hxGIXeA==")
 RegisterDate=("2025-06-02 16:47:11")
 PlayerName=("Еркоша сто проц")

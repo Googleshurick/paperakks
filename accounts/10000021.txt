@@ -1,5 +1,0 @@
-PlayerID=("10000021")
-BanStatus=("false")
-BanReason=("ErkAC: Ваш аккаунт был заморожен по причине того что у вас замечено подозрительная активность. Если это ошибка сообщите мне в Телеграм @ImErkosha")
-IP=("6UN0vWwURtJQxNVRXiKxzg==")
-RegisterDate=("2025-05-20 18:28:35")

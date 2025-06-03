@@ -1,8 +1,0 @@
-PlayerID=("29")
-BanStatus=("false")
-BanReason=("")
-IP=("3qf0q3qsige5sZxSDK+Frg==")
-RegisterDate=("2025-05-20 15:57:00")
-PlayerName=("Игрок 4226")
-Friends=("19")
-RequestToFriend=("10000073,10000112,289989")

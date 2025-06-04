@@ -1,0 +1,7 @@
+PlayerID=("DEV_01")
+BanStatus=("false")
+BanReason=("")
+IP=("9VsRFUiTMdrtZcpmKVa//w==")
+RegisterDate=("2025-06-03 14:55:23")
+PlayerName=("Еркоша")
+PlayerAvatar=("")

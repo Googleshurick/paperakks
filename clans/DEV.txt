@@ -1,2 +1,0 @@
-ClanName=DEV
-ClanTag=DEV
